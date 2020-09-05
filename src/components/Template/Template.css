@@ -1,0 +1,15 @@
+div.cards-style {
+    width  : 280px;
+    height : 216px;
+    display: flex;
+}
+
+.rectangular-box {
+    box-shadow   : 0px 8px 20px #A4A4A421;
+    border       : 1px solid #D5D5D5C4;
+    border-radius: 2px;
+    opacity      : 1;
+    width        : 339px;
+    height       : 40px;
+    margin-left  : 150px;
+}

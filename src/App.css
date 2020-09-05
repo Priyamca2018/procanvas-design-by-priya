@@ -1,0 +1,11 @@
+body {
+    background-color: #f1f1f1 !important;
+}
+
+.libimgdiv span {
+    position  : absolute;
+    display   : block;
+    height    : 150px;
+    width     : 2px;
+    background: white;
+}
